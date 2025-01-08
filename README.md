@@ -1,59 +1,21 @@
-# SnailTales
+# Snail Tales
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
+Snail Tales is an Angular and LESS-based site created to connect creative writers in pursuit of epistolary RPG experiences.
 
-## Development server
+## Code Usage
 
-To start a local development server, run:
+At this time, I ask that you not use this code-base for your own projects, as I am still learning both Angular and LESS and am not ready for the world to reckon with my spaghetti-code in both. That said, I believe deeply in open-sourcing and this repo will remain public.
 
-```bash
-ng serve
-```
+All photos, assets, and IP contained herein are the sole property of Ethan Kotel and may not be used or reproduced without permission.
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## What is an 'Epistolary RPG'?
 
-## Code scaffolding
+An epistolary RPG, or play-by-post game, is a role-playing game played via letters sent in the mail.
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+Typically utilizing a framework containing a setting, character details, and/or events to write about, players take turns writing each other letters, creating a story between them as they go.
 
-```bash
-ng generate component component-name
-```
+Lacking the immediacy of a traditional video game or tabletop RPG experience, epistolary RPG's focus not on action, or even necessarily adventure, but rather on character development and world-building, perfect for the aspiring creative writer, letter-lover, and patient gamer.
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## Need More to Scratch Your Writing Itch?
 
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Check out [Of Pens and Poems](https://ofpensandpoems.com), a React site offering fountain pen ink, paper, and pen reviews as well as poetry. That codebase is [here](https://github.com/corynko/ofpoemsandpens), and I'm much more comfortable with you cloning that one and playing around with it!
